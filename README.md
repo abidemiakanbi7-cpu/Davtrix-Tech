@@ -32,3 +32,4 @@ A responsive multi-section company website built with **HTML5, CSS3, and vanilla
 Includes semantic landmarks, skip link, descriptive labels, keyboard-friendly navigation, visible focus styling, and layouts for mobile, tablet, and desktop.
 # DAVTRIX-Technologies
 # DAVTRIX
+# Davtrix-Tech
